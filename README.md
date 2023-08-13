@@ -1,2 +1,2 @@
 # sivasankar
-placement course and self projects
+placement: course and self projects
